@@ -1,5 +1,5 @@
-# idea.md
-My Idea Notepad
+# idea and todo note.
+My Idea and todo notepad.
 
 ## List
 
@@ -17,3 +17,19 @@ My Idea Notepad
 
 - `ipseq` ... output ip addr like `seq` command from CIDR, NetworkAddress/Mask, File... impl. using GoLang.
   - e.g. `ipseq 172.22.1.0/24 | fping -f -` 
+
+
+
+## Learning/Interesting.
+
+### Language
+
+- English(aimed to TOEIC 800+)
+- German(interesting)
+- Russian(interesting)
+
+### Prog. Lang.
+
+- Rust
+- Perl
+- Go
