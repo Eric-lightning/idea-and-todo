@@ -1,6 +1,10 @@
 # idea and todo note.
 My Idea and todo notepad.
 
+> This idea is PUBLIC DOMAIN.
+> But, I want to know your solution for interesting
+> ( I don't claim any right to it, and I don't make any teasers about it. )
+
 ## List
 
 - [www.md](www.md) ... About World Wide Web
@@ -12,6 +16,16 @@ My Idea and todo notepad.
 
 - Arbitration System Using Sentiment Judgment, Argument Judgment, and Gathering of Opinions by Natural Language Analysis, Discussion SNS Platform.
 - Automatic Information Source Acquisition System on SNS
+
+## Analyze
+
+- 全国紙５社HPをスクレイピングし，Macabによる形態素解析，単語出現頻度を見て傾向を探る．あとPresident Onlineとか，Gigazineとかギズモード，デイリーガジェットなど見たい．
+
+## How-to
+
+- QiitaのタイトルをGithub Profile Pagesに貼り付ける方法
+-
+
 
 ## Network Tool
 
