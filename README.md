@@ -27,12 +27,20 @@ My Idea and todo notepad.
 -
 
 
-## Network Tool
+## Utility
 
 - `ipseq` ... output ip addr like `seq` command from CIDR, NetworkAddress/Mask, File... impl. using GoLang.
   - e.g. `ipseq 172.22.1.0/24 | fping -f -` 
 
-
+- `termrec` ... alternative `script` command. terminal record to Simple readable unix plain text liked CSV, JSON, and so on.
+  - and modern style command
+  - result output uuid.stdout and uuid.stderr to file by exec
+  - timestamp and command list.
+ 
+ ```
+ 2021-11-12 13:11:03 ls -l
+ 2021-11-12 13:11:19 cd hoge/bar
+ ```
 
 ## Learning/Interesting.
 
