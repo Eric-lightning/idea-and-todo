@@ -12,6 +12,13 @@ My Idea and todo notepad.
 
 ## No Sorted
 
+## Product
+
+- Smart Voice Recorder.
+  - First, Recording your voices.
+  - Second, Learning Your Voices, and transcription to text-file.
+  - Third, Identify voiced and generate a file in the Minutes format!
+
 ### SNS
 
 - Arbitration System Using Sentiment Judgment, Argument Judgment, and Gathering of Opinions by Natural Language Analysis, Discussion SNS Platform.
