@@ -50,7 +50,7 @@ My Idea and todo notepad.
   - calm down usage(good-old unix command usage)
   - support stdin(via pipe)
   - (limited CSS)
-
+  - todo: fork from [github/cmark-gfm](https://github.com/github/cmark-gfm)
 
 - `ipseq` ... output ip addr like `seq` command from CIDR, NetworkAddress/Mask, File... impl. using GoLang.
   - e.g. `ipseq 172.22.1.0/24 | fping -f -` 
