@@ -24,6 +24,14 @@ My Idea and todo notepad.
 - Arbitration System Using Sentiment Judgment, Argument Judgment, and Gathering of Opinions by Natural Language Analysis, Discussion SNS Platform.
 - Automatic Information Source Acquisition System on SNS
 
+### Third-Party Services
+
+- Twitter Client liked Nostalgic PC communication services
+  - Simple Text-Only realtime Terminal Viewer via ssh or local
+  - vim-binding post editor
+  - save tweets and search by regex
+  - save tweets cron daemon(for offline viewing)
+
 ## Analyze
 
 - 全国紙５社HPをスクレイピングし，Macabによる形態素解析，単語出現頻度を見て傾向を探る．あとPresident Onlineとか，Gigazineとかギズモード，デイリーガジェットなど見たい．
