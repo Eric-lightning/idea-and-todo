@@ -19,6 +19,14 @@ My Idea and todo notepad.
   - Second, Learning Your Voices, and transcription to text-file.
   - Third, Identify voiced and generate a file in the Minutes format!
 
+- Simple WYSIWYG Editor.
+  - file: ZIP FILE include PureHTML and Git Version Management.
+    - append tag id and class from GUI with Style Sheet.
+  - Dynamic Component via Javascript.
+  - for Document.
+    - Goal1: formality Document with any styles!
+    - Goal2: Use Non-Enginner, alternative Ms Word Editor, Open Standard Editor
+
 ### SNS
 
 - Arbitration System Using Sentiment Judgment, Argument Judgment, and Gathering of Opinions by Natural Language Analysis, Discussion SNS Platform.
@@ -39,7 +47,14 @@ My Idea and todo notepad.
 ## How-to
 
 - QiitaのタイトルをGithub Profile Pagesに貼り付ける方法
--
+
+## Work efficiency
+
+- MyPage
+  - Two Col, right pain is my memorandum, left pain is today schedule or todo.
+  - Simple Autentication(Digest on SSL)
+  - edit md, output simple html.
+  
 
 
 ## Utility
