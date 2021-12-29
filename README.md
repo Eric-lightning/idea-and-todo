@@ -22,6 +22,10 @@ My Idea and todo notepad.
 - Simple WYSIWYG Editor.
   - file: ZIP FILE include PureHTML and Git Version Management.
     - append tag id and class from GUI with Style Sheet.
+    - and Include CSS managed with pixel adapted dpi.
+  - Size Pixel adapted by dpi.
+    - example: Selected A4 Paper, DPI: 300px, Papersize: 3508×2480
+  - Printing adapted by dpi(**For official documents in strict format**)
   - Dynamic Component via Javascript.
   - for Document.
     - Goal1: formality Document with any styles!
