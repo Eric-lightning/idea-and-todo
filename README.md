@@ -36,10 +36,10 @@ My Idea and todo notepad.
   - Pure Wiki Server Side API
   - CRUD+Meta
     - CREATE PAGE ... `PUT /path/to/endpoint`
-    - READ PAGE ... `GET /path/to/endpoint`
+    - READ PAGE ... `GET /path/to/endpoint?type=[html|pdf|md]`
     - UPDATE ... `PUT /path/to/endpoint`
     - DELETE ... `DELETE /path/to/endpoint`
-    - Manage Meta Data ... `POST /request/path/name` with JSON.
+    - Manage Meta Data, Extension ... `POST /request/path/name` with JSON.
   - Managed/Insipred Git(One Server One Repository, repository-name: FQDN?)
     - Req: `PUT X-Update-Type: Draft` --> `checkout -b [username]` ---> Save Draft at `[username]` branch.
     - Req: `PUT X-Update-Type: Commit` ---> Save Docs with Commit Mesg at `[username]` branch.
@@ -49,11 +49,16 @@ My Idea and todo notepad.
     - Req: `POST /version-control/pull` ---> pull to upper stream.
     - Req: `POST /version-control/push` ---> push from down stream.
     - Req: `POST /search` with keyword and page ---> return result JSON.
+    - Req: `POST /info/latest-updates`, `POST /
   - Linking Other WHAPI Server
     - GET Search Index Difference Data `POST /public-data/indexes`
     - GET Another Server Information via DHT?, RoutingTable?:  `POST /public-data/servers`
       - IRC/Matrix Integration: Discussion between servers.
-      - 
+
+- WHAPI Frontend Implemantaion
+  - Search Communicaton
+  - Dynamic Applied Style Sheet.(dark/light, Page)
+  - Editor
 
 ### SNS
 
