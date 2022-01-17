@@ -15,6 +15,15 @@ My Idea and todo notepad.
 
 ## Product
 
+- Windows Explorer Integration like Cloud Application with Linux SFTP Server.
+  - 2Socket:
+    - [1]. Client Sender( `local$ sftp server.example.com`)
+    - [2]. Server Sender( `local$ ssh -R $REMOTE_PORT:localhost:22 server.example.com` and service run: `server$ sftp localhost:$REMOTE_PORT`)
+    - TODO: about [2]: how to get Modification Event without root permission...
+  - See Virtual Files(Not Downloaded) like Cloudware (e.g. OneDrive, MEGA.nz, Google Drive etc...)
+  - Realtime Sync.
+  - Small Dependency: ssh and bash
+
 - Smart Voice Recorder.
   - First, Recording your voices.
   - Second, Learning Your Voices, and transcription to text-file.
@@ -88,6 +97,9 @@ My Idea and todo notepad.
   - Simple Autentication(Digest on SSL)
   - edit md, output simple html.
   
+- Calendar Application
+  - add Schedule from Template(e.g. Pattern of time going to office)
+  - Easy Copy&Paste of Schedule
 
 
 ## Utility
