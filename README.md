@@ -42,8 +42,12 @@ My Idea and todo notepad.
   - Printing adapted by dpi(**For official documents in strict format**)
   - Dynamic Component via Javascript.
   - for Document.
-    - Goal1: formality Document with any styles!
-    - Goal2: Use Non-Enginner, alternative Ms Word Editor, Open Standard Editor
+    - Goal0: Prototype HTML Editor(no Version Manage, No CSS)
+    - Goal1: CSS Implematation
+    - Goal2: formality Document with any styles!
+    - Goal3: Simple Version Manage(no Fork, no Merge)
+    - Goal4: Greatful Version Manage(Fork/Merge Support)
+    - Goal5: Use Non-Enginner, alternative Ms Word Editor, Open Standard Editor
 
 - Wiki Helper API (WHAPI)
   - Pure Wiki Server Side API
