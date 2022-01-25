@@ -38,6 +38,7 @@ My Idea and todo notepad.
     - Manage Version without Cloudware like OneDrive.
   - Size Pixel adapted by dpi.
     - example: Selected A4 Paper, DPI: 300px, Papersize: 3508×2480
+    - or, managed by `pt`, `px`?
   - Printing adapted by dpi(**For official documents in strict format**)
   - Dynamic Component via Javascript.
   - for Document.
