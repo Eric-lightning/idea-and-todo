@@ -41,8 +41,9 @@ My Idea and todo notepad.
     - example: Selected A4 Paper, DPI: 300px, Papersize: 3508×2480
     - or, managed by `pt`, `px`?
   - Printing adapted by dpi(**For official documents in strict format**)
-  - Dynamic Component via Javascript.
+  - Dynamic Document/Component via Javascript, and Extensions.
   - for Document.
+    - GoalX: Notepad App
     - Goal0: Prototype HTML Editor(no Version Manage, No CSS)
     - Goal1: CSS Implematation
     - Goal2: formality Document with any styles!
