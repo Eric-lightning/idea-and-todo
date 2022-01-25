@@ -69,6 +69,13 @@ My Idea and todo notepad.
   - Dynamic Applied Style Sheet.(dark/light, Page)
   - Editor
 
+- Cafe Sign-in with NFC Tips
+  - Why cafes using Captive Portal?
+  - Autogenerate WPA3-PASSWORD day by day.
+  - Autowrite NFC Tag of countertop.
+  - User need to entry when accouning.
+
+
 ### SNS
 
 - Arbitration System Using Sentiment Judgment, Argument Judgment, and Gathering of Opinions by Natural Language Analysis, Discussion SNS Platform.
