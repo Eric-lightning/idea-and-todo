@@ -31,6 +31,7 @@ My Idea and todo notepad.
 
 - Simple WYSIWYG Editor.
   - file: ZIP FILE include PureHTML and Git Version Management.
+    - Complementation with JSON when it can not be represented by `<meta>`
     - append tag id and class from GUI with Style Sheet.
     - and Include CSS managed with pixel adapted dpi.
     - FILE COPY -> `git clone`
