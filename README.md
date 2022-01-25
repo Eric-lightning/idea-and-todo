@@ -121,6 +121,7 @@ My Idea and todo notepad.
 
 - `ipseq` ... output ip addr like `seq` command from CIDR, NetworkAddress/Mask, File... impl. using GoLang.
   - e.g. `ipseq 172.22.1.0/24 | fping -f -` 
+  - http://github.com/anya-tokugawa/ipseq-cli
 
 - `termrec` ... alternative `script` command. terminal record to Simple readable unix plain text liked CSV, JSON, and so on.
   - and modern style command
