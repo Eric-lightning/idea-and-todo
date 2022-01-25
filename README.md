@@ -33,6 +33,9 @@ My Idea and todo notepad.
   - file: ZIP FILE include PureHTML and Git Version Management.
     - append tag id and class from GUI with Style Sheet.
     - and Include CSS managed with pixel adapted dpi.
+    - FILE COPY -> `git clone`
+    - CONFLICT SAME FILE NAME -> `git merge`
+    - Manage Version without Cloudware like OneDrive.
   - Size Pixel adapted by dpi.
     - example: Selected A4 Paper, DPI: 300px, Papersize: 3508×2480
   - Printing adapted by dpi(**For official documents in strict format**)
