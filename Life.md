@@ -27,3 +27,9 @@
 - Working Time: ??? <--- Varies from week to week.
   - Need to fix todo weekly.
   - TODO: Simple Calculate Balances for fix todo.
+
+
+## Algorithm
+
+- Todo Queueing Sort Algorithm
+- 
