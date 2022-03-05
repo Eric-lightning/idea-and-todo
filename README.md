@@ -85,6 +85,11 @@ My Idea and todo notepad.
   - Autowrite NFC Tag of countertop.
   - User need to entry when accouning.
 
+- Emergency(Fire and Earthquake) Alarm, Announcement broadcast Bypass to PC or Smartphone
+  - In recent years, the number of people listening to music with earphones has been increasing.
+  - Risk of not being aware of important notifications such as building fires, station announcements, etc.
+  - Therefore, I would like to create an application that bypasses station broadcasts and emergency sirens for building fires and so on.
+
 
 ### SNS
 
