@@ -98,12 +98,12 @@ My Idea and todo notepad.
   - Therefore, I would like to create an application that bypasses station broadcasts and emergency sirens for building fires and so on.
 
 
-### SNS
+## SNS
 
 - Arbitration System Using Sentiment Judgment, Argument Judgment, and Gathering of Opinions by Natural Language Analysis, Discussion SNS Platform.
 - Automatic Information Source Acquisition System on SNS
 
-### Third-Party Services
+## Third-Party Services
 
 - Twitter Client liked Nostalgic PC communication services
   - Simple Text-Only realtime Terminal Viewer via ssh or local
