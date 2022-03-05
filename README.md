@@ -15,7 +15,8 @@ My Idea and todo notepad.
 
 ## Product
 
-- Windows Explorer Integration like Cloud Application with Linux SFTP Server.
+### Windows Explorer Integration like Cloud Application with Linux SFTP Server.
+  
   - 2Socket:
     - [1]. Client Sender( `local$ sftp server.example.com`)
     - [2]. Server Sender( `local$ ssh -R $REMOTE_PORT:localhost:22 server.example.com` and service run: `server$ sftp localhost:$REMOTE_PORT`)
@@ -24,12 +25,14 @@ My Idea and todo notepad.
   - Realtime Sync.
   - Small Dependency: ssh and bash
 
-- Smart Voice Recorder.
+### Smart Voice Recorder.
+  
   - First, Recording your voices.
   - Second, Learning Your Voices, and transcription to text-file.
   - Third, Identify voiced and generate a file in the Minutes format!
 
-- Simple WYSIWYG Editor.
+### Simple WYSIWYG Editor.
+  
   - file: ZIP FILE include PureHTML and Git Version Management.
     - Complementation with JSON when it can not be represented by `<meta>`
     - append tag id and class from GUI with Style Sheet.
@@ -51,7 +54,8 @@ My Idea and todo notepad.
     - Goal4: Greatful Version Manage(Fork/Merge Support)
     - Goal5: Use Non-Enginner, alternative Ms Word Editor, Open Standard Editor
 
-- Wiki Helper API (WHAPI)
+### Wiki Helper API (WHAPI)
+  
   - Pure Wiki Server Side API
   - CRUD+Meta
     - CREATE PAGE ... `PUT /path/to/endpoint`
@@ -74,18 +78,21 @@ My Idea and todo notepad.
     - GET Another Server Information via DHT?, RoutingTable?:  `POST /public-data/servers`
       - IRC/Matrix Integration: Discussion between servers.
 
-- WHAPI Frontend Implemantaion
+#### WHAPI Frontend Implemantaion
+  
   - Search Communicaton
   - Dynamic Applied Style Sheet.(dark/light, Page)
   - Editor
 
-- Cafe Sign-in with NFC Tips
+### Cafe Sign-in with NFC Tips
+  
   - Why cafes using Captive Portal?
   - Autogenerate WPA3-PASSWORD day by day.
   - Autowrite NFC Tag of countertop.
   - User need to entry when accouning.
 
-- Emergency(Fire and Earthquake) Alarm, Announcement broadcast Bypass to PC or Smartphone
+### Emergency(Fire and Earthquake) Alarm, Announcement broadcast Bypass to PC or Smartphone
+  
   - In recent years, the number of people listening to music with earphones has been increasing.
   - Risk of not being aware of important notifications such as building fires, station announcements, etc.
   - Therefore, I would like to create an application that bypasses station broadcasts and emergency sirens for building fires and so on.
