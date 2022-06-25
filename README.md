@@ -15,6 +15,13 @@ My Idea and todo notepad.
 
 ## Product
 
+### Next Generation My Homepage
+
+- Voice Authoorization(like S.E. Lain Navi)
+- Voice recognition
+- Speech any information
+- Show virtual space to check information in the back of screen.
+
 ### Windows Explorer Integration like Cloud Application with Linux SFTP Server.
   
   - 2Socket:
