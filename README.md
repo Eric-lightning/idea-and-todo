@@ -1,4 +1,5 @@
 # idea and todo note.
+
 My Idea and todo notepad.
 
 > This idea is PUBLIC DOMAIN.
@@ -139,6 +140,11 @@ My Idea and todo notepad.
 
 
 ## Utility
+
+- Spotify Playlist song list to HTML/Markdown Table
+  - for my profile page.
+
+
 
 - `mdrandr` .. markdown rendering tool
   - fast
