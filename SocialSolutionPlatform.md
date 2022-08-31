@@ -32,3 +32,10 @@ graph TD;
 4. fixes child problems.
 5. close on problem.
 6. Send to relevant organizations as a petition
+
+## bullet points itemized discussion
+
+- separate 'Positive' (aka 'Pros' , 'Merit') and 'Negative' (aka 'Cons' , 'Demerit')
+- item limited max 80 characters.
+- item as thread can discussion.
+-
