@@ -37,6 +37,8 @@ My Idea and todo notepad.
 
 ### Windows Explorer Integration like Cloud Application with Linux SFTP Server.
   
+  > exist: https://alternativeto.net/software/raidrive/about/
+  
   - 2Socket:
     - [1]. Client Sender( `local$ sftp server.example.com`)
     - [2]. Server Sender( `local$ ssh -R $REMOTE_PORT:localhost:22 server.example.com` and service run: `server$ sftp localhost:$REMOTE_PORT`)
@@ -75,6 +77,8 @@ My Idea and todo notepad.
     - Goal5: Use Non-Enginner, alternative Ms Word Editor, Open Standard Editor
 
 ### Wiki Helper API (WHAPI)
+  
+  > now, i using mediawiki.
   
   - Pure Wiki Server Side API
   - CRUD+Meta
