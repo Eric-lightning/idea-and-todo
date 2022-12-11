@@ -16,6 +16,18 @@ My Idea and todo notepad.
 
 ## Product
 
+### RIFI - Realtime Information Feed Interface
+
+- digital signage for own getting realtime huge informations. 
+- many plugin for chat from slack, discord, LINE via notification using backend with Android.
+- RSS feed
+- webhook
+- many plugin for web crowring
+- mail
+- priority(personal contact, news, public chat)
+
+
+
 ### Next Generation My Homepage
 
 - Voice Authoorization(like S.E. Lain Navi)
