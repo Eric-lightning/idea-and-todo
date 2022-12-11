@@ -37,7 +37,7 @@ My Idea and todo notepad.
 
 ### Windows Explorer Integration like Cloud Application with Linux SFTP Server.
   
-  > exist: https://alternativeto.net/software/raidrive/about/
+  > exist:
   
   - 2Socket:
     - [1]. Client Sender( `local$ sftp server.example.com`)
